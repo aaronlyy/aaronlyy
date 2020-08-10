@@ -12,7 +12,7 @@
                                                                                  \$$    $$ \$$    $$
                                                                                   \$$$$$$   \$$$$$$ 
 ```
-
+<!--
 ```python
 class Aaronlyy():
 
@@ -51,3 +51,4 @@ print(f"Hello there, my name is {me.name}, im {me.age} years old and from {me.lo
 for k, v in me.iter():
   print(f"{' '.join([c for c in k]).upper()}: {v}")
 ```
+-->
