@@ -33,7 +33,8 @@ class Aaronlyy():
 
 me = Aaronlyy()
 
-print(f"Hello there, my name is {me.name}, im {me.age} years old and from {me.location}.\nYou find my full info and social medias down below.\n")
+print(f"Hello there, my name is {me.name}, im {me.age} years old and from {me.location}.\n
+        You find my full info and social medias down below.\n")
 
 for k, v in me.iter():
   print(f"{' '.join([c for c in k]).upper()}: {v}")
