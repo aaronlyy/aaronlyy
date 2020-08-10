@@ -13,6 +13,12 @@
                                                         \$$$$$$   \$$$$$$ 
 ```
 
+```json
+info = {
+    "name": "aaron"
+    }
+```
+
 
 ```python
 class Aaronlyy():
