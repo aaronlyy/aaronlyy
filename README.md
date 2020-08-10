@@ -1,7 +1,6 @@
 ### hi!
 ```python
 class Aaronlyy():
-
     def __init__(self):
         self.general = {
             "name": "Aaron Levi",
@@ -19,7 +18,6 @@ class Aaronlyy():
             }
         
         self.info = {**self.general, **self.social}
-  
 
     def __getattr__(self, attr):
         if attr in self.info:
@@ -29,7 +27,6 @@ class Aaronlyy():
 
     def iter(self):
       return self.info.items()
-
 
 me = Aaronlyy()
 
