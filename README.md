@@ -1,5 +1,5 @@
 ```python
-class Aaronlyy():
+class Aaronlyy:
 
     def __init__(self):
     
