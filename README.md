@@ -2,6 +2,7 @@
 class Aaronlyy():
 
     def __init__(self):
+    
         self.general = {
             "name": "Aaron Levi",
             "nick": "aaronlyy",
