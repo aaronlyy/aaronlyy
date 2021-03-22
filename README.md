@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [onetappy](https://github.com/aaronlyy/onetappy)
 
-- 🛸💻 All of my projects are available at [aaronlyy.github.io](https://aaronlyy.github.io)
+- 💻 All of my projects are available at [aaronlyy.github.io](https://aaronlyy.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
