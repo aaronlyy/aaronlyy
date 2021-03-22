@@ -1,4 +1,4 @@
-<h1 align="center">Hi ✌️, I'm Aaron Levi</h1>
+<h1 align="center">Hi 🖤, I'm Aaron Levi</h1>
 <h3 align="center">Software Developer in training. Based in Germany.</h3>
 
 - 🔭 I’m currently working on [onetappy](https://github.com/aaronlyy/onetappy)
