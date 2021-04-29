@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🖤, I'm Aaron Levi</h1>
 <h3 align="center">Software Developer in training. Based in Germany.</h3>
 
-- 🔭 I’m currently working on [onetappy](https://github.com/aaronlyy/onetappy), [iratus](https://github.com/aaronlyy/iratus) & [levish](https://github.com/aaronlyy/levish)
+- 🔭 I’m currently working on [levish](https://github.com/aaronlyy/levish) & [iratus](https://github.com/aaronlyy/iratus)
 
 - 💻 All of my projects are available at [aaronlyy.github.io](https://aaronlyy.github.io)
 
