@@ -7,8 +7,7 @@
 - 🔭 **working on**: [levish](https://github.com/aaronlyy/levish)
 - ✨ **other projects**: [pydoit](https://github.com/aaronlyy/pydoit), [iratus](https://github.com/aaronlyy/iratus), [anonpy](https://github.com/aaronlyy/anonpy), [steamprofile](https://github.com/aaronlyy/steamprofile), [onetappy](https://github.com/aaronlyy/onetappy)
 - 💻 **website**: [aaronlyy.github.io](https://aaronlyy.github.io)
-- 🥑 **social**: [twitter](https://twitter.com/levizepam), [discord](https://discord.gg/MAWuYaRBcY), [codewars](https://www.codewars.com/users/aaronlyy)
-  > feel free to contact me on any of my socials :)
+- 🥑 **social**: [twitter](https://twitter.com/levizepam), [discord](https://discord.gg/MAWuYaRBcY), [codewars](https://www.codewars.com/users/aaronlyy), [steam](https://steamcommunity.com/id/speedkonsum)
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/aaronlyy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aaronlyy" /></a></p><br><br>
