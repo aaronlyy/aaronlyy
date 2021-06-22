@@ -3,7 +3,7 @@
 
 
 - ⚡ **languages**: python, powershell, java, c++
-- 🌱 **learning**: game hacking with c++
+- 🌱 **currently learning**: game hacking with c++
 - 🔭 **working on**: [levish](https://github.com/aaronlyy/levish)
 - ✨ **other projects**: [pydoit](https://github.com/aaronlyy/pydoit), [iratus](https://github.com/aaronlyy/iratus), [anonpy](https://github.com/aaronlyy/anonpy), [steamprofile](https://github.com/aaronlyy/steamprofile), [onetappy](https://github.com/aaronlyy/onetappy)
 - 💻 **website**: [aaronlyy.github.io](https://aaronlyy.github.io)
