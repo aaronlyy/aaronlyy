@@ -1,6 +1,5 @@
 <h1 align="center">hi, my name is aaron levi</h1>
-<h3 align="center">Software Developer in training. Based in Germany.</h3>
-
+<h3 align="center">software developer in training. based in germany.</h3>
 
 - ⚡ **languages**: python, powershell, java, c++
 - 🌱 **learning**: game hacking with c++
