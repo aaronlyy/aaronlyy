@@ -1,6 +1,8 @@
 <h1 align="center">Hi 🖤, I'm Aaron Levi</h1>
 <h3 align="center">Software Developer in training. Based in Germany.</h3>
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=byteben&count_private=true&theme=tokyonight&showicons=true)]()
+
 - 🔭 I’m currently working on [levish](https://github.com/aaronlyy/levish) & [iratus](https://github.com/aaronlyy/iratus)
 
 - 💻 All of my projects are available at [aaronlyy.github.io](https://aaronlyy.github.io)
