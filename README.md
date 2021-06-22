@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🖤, I'm Aaron Levi</h1>
 <h3 align="center">Software Developer in training. Based in Germany.</h3>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=aaronlyy&count_private=true&theme=tokyonight&showicons=true)]()
+<p align="center">[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=aaronlyy&count_private=true&theme=tokyonight&showicons=true)]()</p>
 
 - 🔭 I’m currently working on [levish](https://github.com/aaronlyy/levish) & [iratus](https://github.com/aaronlyy/iratus)
 
