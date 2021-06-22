@@ -6,7 +6,7 @@
 - 🔭 Working on [levish](https://github.com/aaronlyy/levish) & [iratus](https://github.com/aaronlyy/iratus)
 - 💻 All of my projects are available at [aaronlyy.github.io](https://aaronlyy.github.io)
 
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kaizoku-oh" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=aaronlyy" />
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/aaronlyy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aaronlyy" /></a></p><br><br>
