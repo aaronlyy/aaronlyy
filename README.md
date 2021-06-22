@@ -4,7 +4,8 @@
 
 - ⚡ languages: python, powershell, java, c++
 - 🌱 learning: game hacking with c++
-- 🔭 working on: [levish](https://github.com/aaronlyy/levish) & [iratus](https://github.com/aaronlyy/iratus)
+- 🔭 currently working on: blabla
+- interesting projects: [levish](https://github.com/aaronlyy/levish)
 - 💻 all of my projects are available at [aaronlyy.github.io](https://aaronlyy.github.io)
 
 <h3 align="left">Support:</h3>
