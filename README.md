@@ -7,7 +7,7 @@
 - 💻 All of my projects are available at [aaronlyy.github.io](https://aaronlyy.github.io)
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/aaronlyy"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aaronlyy" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/aaronlyy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aaronlyy" /></a></p><br><br>
 
 
 <!--- <img align="center">[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=aaronlyy&count_private=true&theme=tokyonight&showicons=true)]()</img> --->
