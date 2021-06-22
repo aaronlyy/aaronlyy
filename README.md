@@ -4,8 +4,7 @@
 
 - ⚡ **languages**: python, powershell, java, c++
 - 🌱 **currently learning**: game hacking with c++
-- 🔭 **working on**: [levish](https://github.com/aaronlyy/levish)
-- ✨ **other projects**: [pydoit](https://github.com/aaronlyy/pydoit), [iratus](https://github.com/aaronlyy/iratus), [anonpy](https://github.com/aaronlyy/anonpy), [steamprofile](https://github.com/aaronlyy/steamprofile), [onetappy](https://github.com/aaronlyy/onetappy)
+- ✨ **my projects**: [levish](https://github.com/aaronlyy/levish), [pydoit](https://github.com/aaronlyy/pydoit), [iratus](https://github.com/aaronlyy/iratus), [anonpy](https://github.com/aaronlyy/anonpy), [steamprofile](https://github.com/aaronlyy/steamprofile), [onetappy](https://github.com/aaronlyy/onetappy)
 - 💻 **website**: [aaronlyy.github.io](https://aaronlyy.github.io)
 - 🥑 **social**: [twitter](https://twitter.com/levizepam), [discord](https://discord.gg/MAWuYaRBcY), [codewars](https://www.codewars.com/users/aaronlyy), [steam](https://steamcommunity.com/id/speedkonsum)
 - 🙏 **support**: [buy me a coffee :)](https://www.buymeacoffee.com/aaronlyy)
