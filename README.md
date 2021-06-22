@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer in training. Based in Germany.</h3>
 
 
-- ⚡ languages: python, java, powershell, c++
+- ⚡ languages: python, powershell, java, c++
 - 🌱 learning: game hacking with c++
 - 🔭 working on: [levish](https://github.com/aaronlyy/levish) & [iratus](https://github.com/aaronlyy/iratus)
 - 💻 all of my projects are available at [aaronlyy.github.io](https://aaronlyy.github.io)
