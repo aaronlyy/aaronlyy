@@ -3,7 +3,8 @@
 
 <!--- <img align="center">[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=aaronlyy&count_private=true&theme=tokyonight&showicons=true)]()</img> --->
 
-- 🔭 I’m currently working on [levish](https://github.com/aaronlyy/levish) & [iratus](https://github.com/aaronlyy/iratus)
+- 🔭 Working on [levish](https://github.com/aaronlyy/levish) & [iratus](https://github.com/aaronlyy/iratus)
+- Learning C++ & Game Hacking with C++
 
 - 💻 All of my projects are available at [aaronlyy.github.io](https://aaronlyy.github.io)
 
