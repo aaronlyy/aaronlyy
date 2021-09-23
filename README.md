@@ -2,8 +2,8 @@
 <h3 align="center">software developer in training. based in germany.</h3>
 
 
-- ⚡ **languages**: python, powershell, java, c++
-- 🌱 **currently learning**: c++ & game hacking with c++
+- ⚡ **languages**: python, powershell, c++
+- 🌱 **currently learning**: basic webdesign
 - ✨ **active projects**: [quickshell](https://github.com/aaronlyy/quickshell), [memoria](https://github.com/aaronlyy/memoria), [revive](https://github.com/revive), [iratus](https://github.com/aaronlyy/iratus)
 - 💻 **website**: [aaronlyy.github.io](https://aaronlyy.github.io)
 - 🥑 **social**: [twitter](https://twitter.com/levizepam), [discord](https://discord.gg/MAWuYaRBcY), [codewars](https://www.codewars.com/users/aaronlyy), [steam](https://steamcommunity.com/id/speedkonsum), [pypi](https://pypi.org/user/aaronlyy/)
