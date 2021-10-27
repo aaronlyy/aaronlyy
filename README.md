@@ -2,7 +2,7 @@
 <h3 align="center">software developer in training. based in germany.</h3>
 
 
-- ⚡ **languages**: python, powershell, c++
+- ⚡ **languages**: mostly python & powershell
 - 🌱 **currently learning**: basic webdesign
 - ✨ **active projects**: [check_mandatory_services](https://github.com/aaronlyy/check_mandatory_services), [furatus](https://github.com/aaronlyy/furatus)
 - 💻 **website**: [aaronlyy.github.io](https://aaronlyy.github.io)
