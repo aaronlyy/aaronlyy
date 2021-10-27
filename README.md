@@ -4,7 +4,7 @@
 
 - ⚡ **languages**: python, powershell, c++
 - 🌱 **currently learning**: basic webdesign
-- ✨ **active projects**: [check_mandatory_services](https://github.com/aaronlyy/check_mandatory_services)
+- ✨ **active projects**: [check_mandatory_services](https://github.com/aaronlyy/check_mandatory_services), [furatus](https://github.com/aaronlyy/furatus)
 - 💻 **website**: [aaronlyy.github.io](https://aaronlyy.github.io)
 - 🥑 **social**: [twitter](https://twitter.com/levizepam), [discord](https://discord.gg/MAWuYaRBcY), [codewars](https://www.codewars.com/users/aaronlyy), [steam](https://steamcommunity.com/id/speedkonsum), [pypi](https://pypi.org/user/aaronlyy/)
 - 🙏 **support**: [buy me a coffee :)](https://www.buymeacoffee.com/aaronlyy)
