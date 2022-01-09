@@ -3,7 +3,7 @@
 
 
 - ⚡ **languages**: mostly python & powershell
-- 🌱 **currently learning**: basic webdesign, c++
+- 🌱 **currently learning**: c++
 - ✨ **active projects**: [check_mandatory_services](https://github.com/aaronlyy/check_mandatory_services), [check_vhdx_size](https://github.com/aaronlyy/check_vhdx_size)
 - 💡 **interesting projects**: [furatus](https://github.com/aaronlyy/furatus)
 - 💻 **website**: [aaronlyy.github.io](https://aaronlyy.github.io)
