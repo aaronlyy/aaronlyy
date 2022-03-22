@@ -3,7 +3,7 @@
 
 
 - ⚡ **languages**: mostly python & powershell
-- 🌱 **currently learning**: c++
+- 🌱 **currently learning**: css, c++
 - ✨ **active projects**: [canem.css](https://github.com/krotesq/canem.css), [check_mandatory_services](https://github.com/aaronlyy/check_mandatory_services), [check_size_advanced](https://github.com/aaronlyy/check_size_advanced)
 - 💡 **interesting projects**: [furatus](https://github.com/aaronlyy/furatus)
 - 💻 **website**: [aaronlyy.github.io](https://aaronlyy.github.io)
