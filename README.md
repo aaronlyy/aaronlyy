@@ -3,7 +3,7 @@
 
 
 - ⚡ **languages**: mostly python & powershell
-- 🌱 **currently learning**: c++ ([learn-cpp](https://github.com/krotesq/learn-cpp))
+- 🌱 **currently learning**: c++ ([learning-cpp](https://github.com/aaronlyy/learning-cpp))
 - ✨ **active projects**: [canem.css](https://github.com/krotesq/canem.css)
 - 💻 **website**: [aaronlyy.github.io](https://aaronlyy.github.io)
 - 🥑 **social**: [twitter](https://twitter.com/levizepam), [discord](https://discord.gg/MAWuYaRBcY), [codewars](https://www.codewars.com/users/aaronlyy), [steam](https://steamcommunity.com/id/speedkonsum), [pypi](https://pypi.org/user/aaronlyy/)
