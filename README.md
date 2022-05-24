@@ -2,7 +2,7 @@
 <h3 align="center">software developer in training. based in germany.</h3>
 
 
-- ⚡ **languages**: mostly python & powershell
+- ⚡ **languages**: python, powershell
 - 🌱 **currently learning**: c++ ([learning-cpp](https://github.com/aaronlyy/learning-cpp))
 - 🍀 **next language to learn**: dart ([learning-dart](https://github.com/aaronlyy/learning-dart))
 - ✨ **active projects**: [ventus](https://github.com/aaronlyy/ventus), [canem.css](https://github.com/krotesq/canem.css)
