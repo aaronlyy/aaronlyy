@@ -4,7 +4,7 @@
 
 - ⚡ **languages**: python, powershell
 - 🌱 **currently learning**: c++ ([learning-cpp](https://github.com/aaronlyy/learning-cpp))
-- 🍀 **next languages to learn**: dart ([learning-dart](https://github.com/aaronlyy/learning-dart)), rust
+- 🍀 **languages im interested in**: dart ([learning-dart](https://github.com/aaronlyy/learning-dart)), rust, go
 - ✨ **active projects**: [ventus](https://github.com/aaronlyy/ventus), [canem.css](https://github.com/krotesq/canem.css)
 - 💻 **website**: [aaronlyy.github.io](https://aaronlyy.github.io)
 - 🥑 **social**: [twitter](https://twitter.com/levizepam), [discord](https://discord.gg/MAWuYaRBcY), [codewars](https://www.codewars.com/users/aaronlyy), [steam](https://steamcommunity.com/id/speedkonsum), [pypi](https://pypi.org/user/aaronlyy/)
