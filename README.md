@@ -3,7 +3,7 @@
 
 
 - ⚡ **languages**: python, powershell
-- 🌱 **currently learning**: c++ ([learning-cpp](https://github.com/aaronlyy/learning-cpp))
+- 🌱 **currently learning**: c++ ([learning-cpp](https://github.com/aaronlyy/learning-cpp)), javascript
 - 🍀 **wanna learn**: dart ([learning-dart](https://github.com/aaronlyy/learning-dart)), go, react
 - ✨ **active projects**: [ventus](https://github.com/aaronlyy/ventus), [canem.css](https://github.com/krotesq/canem.css)
 - 💻 **website**: [aaronlyy.github.io](https://aaronlyy.github.io)
