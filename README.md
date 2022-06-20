@@ -2,9 +2,9 @@
 <h3 align="center">software developer in training. based in germany.</h3>
 
 
-- ⚡ **languages**: python, powershell
-- 🌱 **currently learning**: c++ ([learning-cpp](https://github.com/aaronlyy/learning-cpp)), javascript
-- 🍀 **wanna learn**: dart ([learning-dart](https://github.com/aaronlyy/learning-dart)), go, react
+- ⚡ **languages & skills**: python, powershell, html, css
+- 🌱 **currently learning**: c++ ([learning-cpp](https://github.com/aaronlyy/learning-cpp)), typescript ([learning-typescript](https://github.com/aaronlyy/learning-typescript))
+- 🍀 **interested in**: nestjs, react, dart, go
 - ✨ **active projects**: [ventus](https://github.com/aaronlyy/ventus), [canem.css](https://github.com/krotesq/canem.css)
 - 💻 **website**: [aaronlyy.github.io](https://aaronlyy.github.io)
 - 🥑 **social**: [twitter](https://twitter.com/levizepam), [discord](https://discord.gg/MAWuYaRBcY), [codewars](https://www.codewars.com/users/aaronlyy), [steam](https://steamcommunity.com/id/speedkonsum), [pypi](https://pypi.org/user/aaronlyy/)
