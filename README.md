@@ -3,7 +3,7 @@
 
 
 - ⚡ **languages & skills**: python, powershell, html, css
-- 🌱 **currently learning**: c++ ([learning-cpp](https://github.com/aaronlyy/learning-cpp)), typescript ([learning-typescript](https://github.com/aaronlyy/learning-typescript))
+- 🌱 **currently learning**: c++ ([learning-cpp](https://github.com/aaronlyy/learning-cpp)), javascript ([learning-javascript](https://github.com/aaronlyy/learning-javascript)), typescript ([learning-typescript](https://github.com/aaronlyy/learning-typescript))
 - 🍀 **interested in**: nestjs, react, dart, go
 - ✨ **active projects**: [ventus](https://github.com/aaronlyy/ventus), [canem.css](https://github.com/krotesq/canem.css)
 - 💻 **website**: [aaronlyy.github.io](https://aaronlyy.github.io), [krotesq.com](https://krotesq.com)
