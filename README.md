@@ -2,8 +2,8 @@
 <h3 align="center">software developer in training. based in germany.</h3>
 
 
-- ⚡ **languages & skills**: python, powershell, html, css
-- 🌱 **currently learning**: node, express
+- ⚡ **languages & skills**: python, powershell, javascript, html, css
+- 🌱 **currently learning**: Express
 - 🍀 **interested in**: nestjs, react, dart, go (full [bucketlist](https://github.com/aaronlyy/bucketlist))
 - ✨ **active projects**: [ventus](https://github.com/aaronlyy/ventus), [canem.css](https://github.com/krotesq/canem.css)
 - 💻 **website**: [aaronlyy.github.io](https://aaronlyy.github.io), [krotesq.com](https://krotesq.com)
