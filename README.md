@@ -1,4 +1,4 @@
-<h1 align="center">hi 💫, my name is aaron levi</h1>
+<h1 align="center">hi, my name is aaron levi</h1>
 <h3 align="center">software developer in training. based in germany.</h3>
 
 
