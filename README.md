@@ -3,7 +3,7 @@
 
 
 - ⚡ **languages & skills**: python, powershell, javascript, html, css, node, express
-- 🌱 **currently learning**: expressjs ([learning-express](https://github.com/aaronlyy/learning-express))
+- 🌱 **currently learning**: express
 - 🍀 **interested in**: nestjs, react, dart, go (full [bucketlist](https://github.com/aaronlyy/bucketlist))
 - ✨ **active projects**: [pyonos](https://github.com/aaronlyy/pyonos)
 - 🤔 **guides**: [deploy express js with apache2](https://github.com/aaronlyy/how-to-deploy-expressjs-with-apache2)
