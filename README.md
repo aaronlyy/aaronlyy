@@ -1,7 +1,3 @@
-<h1 align="center">hi, my name is aaron levi</h1>
-<h3 align="center">software developer in training. based in germany.</h3>
-
-
 - ⚡ **languages & skills**: python, powershell, javascript, html, css, node, express
 - 🌱 **currently learning**: express
 - 🍀 **interested in**: nestjs, react, dart, go (full [bucketlist](https://github.com/aaronlyy/bucketlist))
