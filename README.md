@@ -3,7 +3,7 @@
 - 🍀 **interested in**: nestjs, react, dart, go (full [bucketlist](https://github.com/aaronlyy/bucketlist))
 - ✨ **active projects**: [pyonos](https://github.com/aaronlyy/pyonos)
 - 🤔 **guides**: [deploy express js with apache2](https://github.com/aaronlyy/how-to-deploy-expressjs-with-apache2)
-- 💻 **website**: [aaronlyy.github.io](https://aaronlyy.github.io), [krotesq.com](https://krotesq.com)
+- 💻 **website**: [krotesq.com](https://krotesq.com)
 - 🥑 **social**: [twitter](https://twitter.com/levizepam), [discord](https://discord.gg/MAWuYaRBcY), [codewars](https://www.codewars.com/users/aaronlyy), [steam](https://steamcommunity.com/id/speedkonsum), [pypi](https://pypi.org/user/aaronlyy/)
 - 🙏 **support**: [buy me a coffee :)](https://www.buymeacoffee.com/aaronlyy)
 
