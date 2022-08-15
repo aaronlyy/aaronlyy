@@ -5,5 +5,5 @@
 - ✨ **active projects**: [pyonos](https://github.com/aaronlyy/pyonos)
 - 🔨 **guides & tutorials**: [deploy express js with apache2](https://github.com/aaronlyy/how-to-deploy-expressjs-with-apache2)
 - 💻 **website**: [krotesq.com](https://krotesq.com)
-- 🥑 **social**: [twitter](https://twitter.com/levizepam), [discord](https://discord.gg/MAWuYaRBcY), [codewars](https://www.codewars.com/users/aaronlyy), [steam](https://steamcommunity.com/id/speedkonsum), [pypi](https://pypi.org/user/aaronlyy/)
+- 🥑 **social**: [twitter](https://twitter.com/levizepam), [discord](https://discord.gg/ZVuh34ttRN), [codewars](https://www.codewars.com/users/aaronlyy), [steam](https://steamcommunity.com/id/speedkonsum), [pypi](https://pypi.org/user/aaronlyy/)
 - 🙏 **support**: [buy me a coffee :)](https://www.buymeacoffee.com/aaronlyy)
