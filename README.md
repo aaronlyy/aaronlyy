@@ -1,4 +1,5 @@
-- ⚡ **languages & skills**: python, powershell, javascript, html, css, node, express
+- ⚡ **languages**: python, powershell, javascript, html, css, node, express
+- ⚡ **frameworks & libraries**: expressjs
 - 🌱 **currently learning**: express
 - 🍀 **interested in**: nestjs, react, dart, go (full [bucketlist](https://github.com/aaronlyy/bucketlist))
 - ✨ **active projects**: [pyonos](https://github.com/aaronlyy/pyonos)
