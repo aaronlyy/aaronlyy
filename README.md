@@ -1,6 +1,5 @@
 - ⚡ **languages**: python, powershell, javascript, html, css
-- 📦 **frameworks & libraries**: express
-- 🌱 **currently learning**: express
+- 📦 **frameworks & libraries**: express, react
 - 🍀 **interested in**: nest, react, dart, go (full [bucketlist](https://github.com/aaronlyy/bucketlist))
 - ✨ **active projects**: [pyonos](https://github.com/aaronlyy/pyonos)
 - 🔨 **guides & tutorials**: [deploy express js with apache2](https://github.com/aaronlyy/how-to-deploy-expressjs-with-apache2)
