@@ -1,6 +1,6 @@
 - ⚡ **languages**: python, powershell, javascript, html, css
 - 📦 **frameworks & libraries**: express, react
-- 🍀 **interested in**: nest, dart/flutter, go (full [bucketlist](https://github.com/aaronlyy/bucketlist))
+- 🍀 **interested in**: electron, nest, dart/flutter, go (full [bucketlist](https://github.com/aaronlyy/bucketlist))
 - ✨ **active projects**: [pyonos](https://github.com/aaronlyy/pyonos)
 - 🔨 **guides & tutorials**: [deploy express js with apache2](https://github.com/aaronlyy/how-to-deploy-expressjs-with-apache2)
 - 💻 **website**: [krotesq.com](https://krotesq.com)
