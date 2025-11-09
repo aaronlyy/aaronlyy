@@ -12,4 +12,4 @@
 </div>
 
 I'm also learning some new stuff at [tryhackme](https://tryhackme.com/p/aaronlyy)
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1260664" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/aaronlyy.png" alt="Your Image Badge" />
