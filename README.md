@@ -1,7 +1,7 @@
 # hey there! i'm aaronlyy
 
-- ✨ **working on**: [veloq](https://github.com/aaronlyy/veloq), [triac](https://github.com/aaronlyy/triac)
-- 📖 **currently learning**: [go](https://go.dev/)
+- ✨ **working on**: nothing, i need to learn some new things
+- 📖 **currently learning**: mostly [go](https://go.dev/) & [elixir](https://elixir-lang.org/)/[phoenix](https://phoenixframework.org/)
 - 💻 **web**: [aaronlyy.dev](https://aaronlyy.dev), [krotesq.com](https://krotesq.com)
 - 🥑 **other**: [discord](https://discord.gg/ZVuh34ttRN), [steam](https://steamcommunity.com/id/fuzzylevi), [tryhackme](https://tryhackme.com/p/aaronlyy)
 - 🙏 **support**: [buy me a coffee :)](https://www.buymeacoffee.com/aaronlyy)
