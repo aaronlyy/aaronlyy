@@ -1,11 +1,10 @@
 # hey there! i'm aaronlyy
 
-- ✨ **working on**: nothing, i need to learn some new things
-- 📖 **currently learning**: [go](https://go.dev/), [elixir](https://elixir-lang.org/), [phoenix](https://phoenixframework.org/)
+- ✨ **working on**: [veloq](https://github.com/aaronlyy/veloq)
+- 📖 **currently learning**: [elixir](https://elixir-lang.org/), [phoenix](https://phoenixframework.org/)
 - 💻 **web**: [aaronlyy.dev](https://aaronlyy.dev), [krotesq.com](https://krotesq.com)
 - 🥑 **other**: [discord](https://discord.gg/ZVuh34ttRN), [steam](https://steamcommunity.com/id/fuzzylevi), [tryhackme](https://tryhackme.com/p/aaronlyy)
 - 🙏 **support**: [buy me a coffee :)](https://www.buymeacoffee.com/aaronlyy)
 
 ## some interesting stats
 <img src="https://tryhackme-badges.s3.amazonaws.com/aaronlyy.png" alt="tryhackme badge" />
-<a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card"><img width="345" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaronlyy&layout=compact&title_color=cba6f7&theme=catppuccin_mocha&border_color=45475a"/></a>
