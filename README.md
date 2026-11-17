@@ -5,7 +5,7 @@ Software developer and founder of [Krotesq](https://github.com/krotesq). I like 
 ### Some cool projects
 
 - [krotesq/vivery](https://github.com/krotesq/vivery): Self-hostable restreaming server and compositor
-- [krotesq/tanteo](https://github.com/krotesq/tanteo): Hardware padel scoreboard that can be synced
+- [krotesq/tanteo](https://github.com/krotesq/tanteo): Hardware padel scoreboard with proximity sensors
 - [veloq](https://github.com/aaronlyy/veloq): Monitoring/benchmarking framework for processes/logs
 - [smolp](https://github.com/aaronlyy/smolp): Build your own protocol on top of tcp/udp based on yaml files
 - [moli](https://github.com/aaronlyy/moli): Dotfiles and package manager
