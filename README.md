@@ -4,12 +4,14 @@ Software developer and founder of [Krotesq](https://github.com/krotesq). I like 
 
 ### Some cool projects
 
-- [veloq](https://github.com/aaronlyy/veloq): monitoring/benchmarking framework for processes/logs
-- [smolp](https://github.com/aaronlyy/smolp): build your own protocol on top of tcp/udp based on yaml files
-- [moli](https://github.com/aaronlyy/moli): dotfiles and package manager
-- [chwarizmi](https://github.com/aaronlyy/chwarizmi): interactive algorithm visualizing/benchmarking
-- [ventus](https://github.com/aaronlyy/ventus): google dorking query builder and cli
-- [smonify](https://github.com/aaronlyy/smonify): self-hostable link shortening service
+- [krotesq/vivery](https://github.com/krotesq/vivery): Self-hostable restreaming server and compositor
+- [krotesq/tanteo](https://github.com/krotesq/tanteo): Hardware padel scoreboard that can be synced
+- [veloq](https://github.com/aaronlyy/veloq): Monitoring/benchmarking framework for processes/logs
+- [smolp](https://github.com/aaronlyy/smolp): Build your own protocol on top of tcp/udp based on yaml files
+- [moli](https://github.com/aaronlyy/moli): Dotfiles and package manager
+- [chwarizmi](https://github.com/aaronlyy/chwarizmi): Interactive algorithm visualizing/benchmarking
+- [ventus](https://github.com/aaronlyy/ventus): Google dorking query builder and cli
+- [smonify](https://github.com/aaronlyy/smonify): Self-hostable link shortening service
 
 ### What I build with
 
@@ -27,8 +29,8 @@ Software developer and founder of [Krotesq](https://github.com/krotesq). I like 
 
 ### Links
 
-[![Discord](https://img.shields.io/badge/discord-5865F2?logo=discord&logoColor=white)](DISCORD_URL)
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?logo=linkedin&logoColor=white)](LINKEDIN_URL)
-[![TryHackMe](https://img.shields.io/badge/tryhackme-212C42?logo=tryhackme&logoColor=white)](TRYHACKME_URL)
-[![Website](https://img.shields.io/badge/website-000000?logo=safari&logoColor=white)](WEBSITE_URL)
-[![Krotesq](https://img.shields.io/badge/krotesq-111111)](https://krotesq.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](DISCORD_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](LINKEDIN_URL)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=white)](TRYHACKME_URL)
+[![Website](https://img.shields.io/badge/Website-000000?logo=safari&logoColor=white)](WEBSITE_URL)
+[![Krotesq](https://img.shields.io/badge/Krotesq-111111)](https://krotesq.com)
