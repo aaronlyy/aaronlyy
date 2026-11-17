@@ -2,7 +2,7 @@
 
 Software developer and founder of [Krotesq](https://github.com/krotesq). I like open source, building hardware and running a homelab. Besides that, I'm into games, books, photography and bouldering, and lately padel.
 
-## Some cool projects
+### Some cool projects
 
 - [veloq](https://github.com/aaronlyy/veloq): monitoring/benchmarking framework for processes/logs
 - [smolp](https://github.com/aaronlyy/smolp): build your own protocol on top of tcp/udp based on yaml files
@@ -11,7 +11,7 @@ Software developer and founder of [Krotesq](https://github.com/krotesq). I like 
 - [ventus](https://github.com/aaronlyy/ventus): google dorking query builder and cli
 - [smonify](https://github.com/aaronlyy/smonify): self-hostable link shortening service
 
-## What I build with
+### What I build with
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
@@ -25,7 +25,7 @@ Software developer and founder of [Krotesq](https://github.com/krotesq). I like 
 ![Coolify](https://img.shields.io/badge/Coolify-6B16ED?logo=coolify&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-## Links
+### Links
 
 [![Discord](https://img.shields.io/badge/discord-5865F2?logo=discord&logoColor=white)](DISCORD_URL)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?logo=linkedin&logoColor=white)](LINKEDIN_URL)
